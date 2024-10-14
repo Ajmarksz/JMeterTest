@@ -1,0 +1,168 @@
+2024-10-14 11:17:46,613 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Version 5.6.3
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: java.version=1.8.0_421
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: os.name=Windows 11
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: os.arch=x86
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: os.version=10.0
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: java.awt.headless=null
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Available Processors =8
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: JMeterHome=C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: user.dir  =C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-10-14 11:17:46,628 INFO o.a.j.JMeter: PWD       =C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-10-14 11:17:46,644 INFO o.a.j.JMeter: IP: 192.168.1.199 Name: DG-MP22W754 FullName: DG-MP22W754.lan
+2024-10-14 11:17:46,646 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-10-14 11:17:46,755 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-10-14 11:17:47,697 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:47,791 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:47,791 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:47,854 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:47,854 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:47,854 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:17:50,046 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_11-04183fc6388b2c2ebf92b93fe987574d-gui
+2024-10-14 11:17:55,604 INFO o.j.r.PluginManager: Plugins Status: [jpgc-ffw=2.0, jpgc-plugins-manager=1.10, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-10-14 11:18:45,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-10-14 11:21:20,691 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-10-14 11:21:20,691 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-10-14 11:21:20,691 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-10-14 11:21:20,691 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-10-14 11:21:20,816 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:20,816 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:20,816 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:20,832 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:20,832 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:20,832 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:31,955 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-14 11:21:31,955 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:21:31,955 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:21:31,955 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-10-14 11:21:31,955 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-10-14 11:21:32,263 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:32,263 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:32,268 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:21:32,268 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-14 11:21:32,331 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : GIT
+2024-10-14 11:21:32,331 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group GIT.
+2024-10-14 11:21:32,331 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-14 11:21:32,331 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-14 11:21:32,331 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-14 11:21:32,331 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-14 11:21:32,331 INFO o.a.j.t.JMeterThread: Thread started: GIT 1-1
+2024-10-14 11:21:32,346 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DG-MP22W754
+2024-10-14 11:21:32,346 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-10-14 11:21:32,441 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2024-10-14 11:21:32,441 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2024-10-14 11:21:32,441 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2024-10-14 11:21:32,708 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2024-10-14 11:21:32,708 INFO o.a.j.u.SSLManager: KeyStore created OK
+2024-10-14 11:21:32,708 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2024-10-14 11:21:33,542 INFO o.a.j.t.JMeterThread: Thread is done: GIT 1-1
+2024-10-14 11:21:33,542 INFO o.a.j.t.JMeterThread: Thread finished: GIT 1-1
+2024-10-14 11:21:33,542 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-14 11:21:33,542 INFO o.a.j.s.FileServer: Default base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:21:33,542 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-14 11:21:55,804 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:21:55,997 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-10-14 11:21:56,013 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-10-14 11:21:56,013 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-10-14 11:21:56,046 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-14 11:21:56,046 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:21:56,046 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-14 11:21:56,138 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : GIT
+2024-10-14 11:21:56,138 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group GIT.
+2024-10-14 11:21:56,138 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-14 11:21:56,138 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-14 11:21:56,138 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-14 11:21:56,138 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-14 11:21:56,138 INFO o.a.j.t.JMeterThread: Thread started: GIT 1-1
+2024-10-14 11:21:57,239 INFO o.a.j.t.JMeterThread: Thread is done: GIT 1-1
+2024-10-14 11:21:57,239 INFO o.a.j.t.JMeterThread: Thread finished: GIT 1-1
+2024-10-14 11:21:57,239 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-14 11:21:57,239 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-14 11:22:01,293 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-14 11:22:01,293 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:22:01,293 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-14 11:22:01,309 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : GIT
+2024-10-14 11:22:01,309 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group GIT.
+2024-10-14 11:22:01,309 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-14 11:22:01,309 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-14 11:22:01,309 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-14 11:22:01,309 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-14 11:22:01,309 INFO o.a.j.t.JMeterThread: Thread started: GIT 1-1
+2024-10-14 11:22:02,345 INFO o.a.j.t.JMeterThread: Thread is done: GIT 1-1
+2024-10-14 11:22:02,345 INFO o.a.j.t.JMeterThread: Thread finished: GIT 1-1
+2024-10-14 11:22:02,345 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-14 11:22:02,345 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-14 11:22:27,046 INFO o.a.j.g.a.Load: Loading file: C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\View Results Tree.jmx
+2024-10-14 11:22:27,046 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:22:27,046 INFO o.a.j.s.SaveService: Loading file: C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\View Results Tree.jmx
+2024-10-14 11:22:27,451 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,451 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,451 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,467 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,467 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,467 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,513 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,513 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,513 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,530 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,530 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,530 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,561 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,561 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,561 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,577 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,577 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,577 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:27,592 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:22:49,394 INFO o.a.j.g.a.Load: Loading file: C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\GIT TEST.jmx
+2024-10-14 11:22:49,394 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:22:49,394 INFO o.a.j.s.SaveService: Loading file: C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\GIT TEST.jmx
+2024-10-14 11:22:49,410 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,410 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,410 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,425 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,425 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-ffw-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,425 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-cmn-jmeter-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-10-14 11:22:49,480 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-10-14 11:23:05,095 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-14 11:23:05,095 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:23:05,095 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-14 11:23:05,111 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : GIT
+2024-10-14 11:23:05,111 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group GIT.
+2024-10-14 11:23:05,111 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-14 11:23:05,111 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-14 11:23:05,111 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-14 11:23:05,111 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-14 11:23:05,111 INFO o.a.j.t.JMeterThread: Thread started: GIT 1-1
+2024-10-14 11:23:06,227 INFO o.a.j.t.JMeterThread: Thread is done: GIT 1-1
+2024-10-14 11:23:06,227 INFO o.a.j.t.JMeterThread: Thread finished: GIT 1-1
+2024-10-14 11:23:06,227 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-14 11:23:06,227 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-14 11:25:43,894 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-14 11:25:43,894 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-14 11:25:43,894 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-14 11:25:43,957 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : GIT
+2024-10-14 11:25:43,957 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group GIT.
+2024-10-14 11:25:43,957 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-14 11:25:43,957 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-10-14 11:25:43,957 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-14 11:25:43,957 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-14 11:25:43,957 INFO o.a.j.t.JMeterThread: Thread started: GIT 1-1
+2024-10-14 11:25:45,026 INFO o.a.j.t.JMeterThread: Thread is done: GIT 1-1
+2024-10-14 11:25:45,026 INFO o.a.j.t.JMeterThread: Thread finished: GIT 1-1
+2024-10-14 11:25:45,026 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-14 11:25:45,026 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-14 11:27:10,633 INFO o.a.j.s.FileServer: Set new base='C:\Users\4360\Downloads\TMRSPSAPI\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
